@@ -1,0 +1,7 @@
+/Users/ulysses/Desktop/source/projects/helloGit/build/CMakeFiles/helloGit.dir
+/Users/ulysses/Desktop/source/projects/helloGit/build/CMakeFiles/edit_cache.dir
+/Users/ulysses/Desktop/source/projects/helloGit/build/CMakeFiles/rebuild_cache.dir
+/Users/ulysses/Desktop/source/projects/helloGit/build/CMakeFiles/list_install_components.dir
+/Users/ulysses/Desktop/source/projects/helloGit/build/CMakeFiles/install.dir
+/Users/ulysses/Desktop/source/projects/helloGit/build/CMakeFiles/install/local.dir
+/Users/ulysses/Desktop/source/projects/helloGit/build/CMakeFiles/install/strip.dir
