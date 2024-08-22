@@ -43,6 +43,7 @@ i didnt want to write :code:`g++ -o ./helloGit ./helloGit.cpp`, easier to push a
 ========
 
 - :code:`helloGit.command` contains the following:
+
   - :code:`~/projectRoot rm -rf build/` and :code:`~/projectRoot mkdir build` basically clears the build directory.
 
   - :code:`cd build`: enters the directory.
