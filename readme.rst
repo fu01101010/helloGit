@@ -42,16 +42,17 @@ i didnt want to write :code:`g++ -o ./helloGit ./helloGit.cpp`, easier to push a
 3: build
 ========
 
-- :code:`~/projectRoot rm -rf build/` and :code:`~/projectRoot mkdir build` basically clears the build directory.
+- :code: `helloGit.command` contains the following:
+  - :code:`~/projectRoot rm -rf build/` and :code:`~/projectRoot mkdir build` basically clears the build directory.
 
-- :code:`cd build`: enters the directory.
+  - :code:`cd build`: enters the directory.
 
-- :code:`cmake ..`: builds the :code:`CMakeLists.txt` located in the parent directory.
+  - :code:`cmake ..`: builds the :code:`CMakeLists.txt` located in the parent directory.
 
-- :code:`make install`: creates the :code:`helloGit` executable and puts it in the :code:`~/projectRoot/bin` directory.
+  - :code:`make install`: creates the :code:`helloGit` executable and puts it in the :code:`~/projectRoot/bin` directory.
 
-- :code:`cd ../bin`: enters the /bin directory.
+  - :code:`cd ../bin`: enters the /bin directory.
 
-- :code:`./helloGit`: launches the executable.
+  - :code:`./helloGit`: launches the executable.
 
 now it should say something to Git =:)
