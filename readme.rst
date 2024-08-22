@@ -2,7 +2,7 @@
 Hello, Git!
 ###########
 
-Says "Hello, Git" via UNIX-like terminal using cmake, enjoy!
+Says :code:`"Hello, Git!"` via UNIX-like terminal using cmake, enjoy!
 
 It's my first repo here!
 ========================
@@ -14,11 +14,11 @@ The time has come to finally start using GitHub to store my projects.
 
 - :code:`root`: The :code:`CMakeLists.txt`, :code:`.command` and :code:`.sh` files are located directly in the root folder. The :code:`.sh` file was made for fun.
 
-	- :code:`/bin`: contains the :code: `helloGit` executable file.
+  - :code:`/bin`: contains the :code: `helloGit` executable file.
 
-	- :code:`/build`: contains the :code: `cmake` generated build files.
+  - :code:`/build`: contains the :code: `cmake` generated build files.
 
-	- :code:`/source`: contains the :code: `helloGit.cpp` source file.
+  - :code:`/source`: contains the :code: `helloGit.cpp` source file.
 
 you can change the :code:`cd **/helloGit.command(:h)` to :code:`cd /path/helloGit` where :code:`/path/helloGit` is the full path to the project directory, right now it is searching for it consuming some time although making it immune to path changes.
 
